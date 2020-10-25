@@ -1,3 +1,6 @@
-- for cbook's download vlc player and run! (hopefully)
-- download python3 not python 2
-- download it with "PATH"
+- to use it first download python 3 (dowload it with PATH)
+- don't download python 2 or 1
+- the thing for python 3 is not python <filename>, it's with a 3 after python like this : python3 <filename>
+- so when running the file do "python3 yt.py"
+- in order to make it work with captions. rename the file that will be called captions.txt to whatever the video is called. but keep the txt in the captions or else it won't work
+- make sure you have vlc player downloaded on windows or chromebook. (not sure bout a mac)
